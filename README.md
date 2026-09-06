@@ -1,23 +1,53 @@
-# Anshika Yadav — Recruiter Portfolio
+ Anshika Yadav — Developer Portfolio
 
-A responsive, recruiter-focused portfolio redesign inspired by the reference layouts you provided.
+A responsive personal portfolio website showcasing my skills, projects, experience, and development journey.
 
-## Included
-- Full-stack developer positioning
-- AI/GenAI + ML skills section
-- FoodRush, Android Attendance, Unity and ML projects
-- Internship + education timeline
-- Recruiter Mode section with searchable keywords
-- Responsive mobile layout
-- Your provided profile photo
-- GitHub + LinkedIn + email CTAs
-- No build step required
+ 🚀 Live Portfolio
 
-## Run locally
-Open `index.html` in a browser.
+https://guileless-pixie-864e4a.netlify.app/
 
-## Deploy to Netlify
-Drag the entire folder into Netlify Drop, or upload the files to the repository connected to your existing Netlify site.
+✨ Features
 
-## Important
-The AI skills are phrased around skills/projects already represented in your portfolio and resume. Only keep skills you can confidently explain in an interview.
+- Responsive portfolio design
+- About Me section
+- Technical skills
+- Projects showcase
+- Education and experience
+- Recruiter-focused information
+- GitHub, LinkedIn and email links
+- Mobile-friendly layout
+- Personal profile photo
+
+ 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+- Unity
+- C / C++
+- C#
+- Java
+- Python
+
+📌 Featured Projects
+
+FoodRush
+A full-stack food delivery platform built with Node.js, Express.js, MongoDB and JavaScript.
+
+Android Attendance
+An Android-based attendance application developed using Android development technologies.
+
+Unity Game
+A game development project created using Unity and C#.
+
+ 💻 Run Locally
+
+Clone the repository:
+
+```bash
+git clone git@github.com:ay340930-hue/Anshika-Portfolio.git
